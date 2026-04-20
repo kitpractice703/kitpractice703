@@ -1,4 +1,4 @@
-# 안녕하세요, 김인태입니다 👋
+# 안녕하세요, 김인태입니다
 
 > 고객 서비스 현장 10년의 경험으로 사용자 관점을 이해하는 신입 백엔드 개발자입니다.
 
@@ -64,7 +64,7 @@
 
 ---
 
-## 📬 Contact
+## Contact
 
 - **Email** kitpractice703@gmail.com
 - **Portfolio** [Notion](https://www.notion.so/0c82a40bbcfe826fb143011d20e689a4)
