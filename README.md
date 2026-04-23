@@ -40,7 +40,7 @@
 > 4인 팀 프로젝트 | 기여도 80%+ | 2025.12 ~ 2026.03
 
 - RESTful API 전체 설계·구현
-- Spring Security 세션 + OAuth2 소셜 로그인
+- Spring Security 세션 + JWT 인증, OAuth2 소셜 로그인
 - N+1 문제 해결 (`@EntityGraph` 적용)
 - CORS 오류 해결 (SecurityFilterChain 직접 주입)
 - AWS EB + RDS + Vercel 3-tier 배포
